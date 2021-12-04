@@ -1,2 +1,2 @@
 # Ecossistema-de-big-data-na-nuvem
- Projeto Criado durante o bootcamp da cognicant
+ Projeto Criado durante o bootcamp da cognizant
